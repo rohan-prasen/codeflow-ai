@@ -2,7 +2,7 @@
   "name": "codeflow-ai",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://rohan-prasen.github.io/codeflow-ai-gh-pages",
+  "homepage": "https://rohan-prasen.github.io/codeflow-ai",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
