@@ -14,7 +14,7 @@ const Navbar = () => {
           >
             <div>
               <img
-                src="/react.svg"
+                src="react.svg"
                 alt="codeFlow"
                 className="w-6 h-6 sm:w-8 h-8"
               />
