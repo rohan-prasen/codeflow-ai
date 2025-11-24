@@ -11,7 +11,7 @@ _Build faster, smarter, and better with intelligent code completion, automated t
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4.1.17-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
-[Live Demo](https://rohan-prasen.github.io/fullstack) • [Report Bug](https://github.com/rohan-prasen/fullstack/issues) • [Request Feature](https://github.com/rohan-prasen/fullstack/issues)
+[Live Demo](https://rohan-prasen.github.io/codeflow-ai) • [Report Bug](https://github.com/rohan-prasen/codeflow-ai/issues) • [Request Feature](https://github.com/rohan-prasen/codeflow-ai/issues)
 
 </div>
 
@@ -240,7 +240,7 @@ fullstack/
 
 ```javascript
 export default {
-  base: "/fullstack/", // Replace with your repo name
+  base: "/codeflow-ai/", // Replace with your repo name
 };
 ```
 
@@ -271,15 +271,15 @@ npm run deploy
 
 Go to your repository → Settings → Pages → Select `gh-pages` branch
 
-Your site will be live at: `https://your-username.github.io/fullstack`
+Your site will be live at: `https://your-username.github.io/codeflow-ai`
 
 ### Deploy to Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/fullstack)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/codeflow-ai)
 
 ### Deploy to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/your-username/fullstack)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/your-username/codeflow-ai)
 
 ---
 
@@ -361,6 +361,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ and React**
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rohan-prasen.fullstack)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rohan-prasen.codeflow-ai)
 
 </div>
